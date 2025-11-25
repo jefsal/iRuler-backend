@@ -1,0 +1,23 @@
+{
+  "comment": "Last Updated: Nov 2025. PPI is physical pixels per inch.",
+  
+  "iPhone17,2": { "name": "iPhone 16 Pro Max", "ppi": 460 },
+  "iPhone17,1": { "name": "iPhone 16 Pro", "ppi": 460 },
+  "iPhone17,4": { "name": "iPhone 16 Plus", "ppi": 460 },
+  "iPhone17,3": { "name": "iPhone 16", "ppi": 460 },
+
+  "iPhone16,2": { "name": "iPhone 15 Pro Max", "ppi": 460 },
+  "iPhone16,1": { "name": "iPhone 15 Pro", "ppi": 460 },
+  "iPhone15,5": { "name": "iPhone 15 Plus", "ppi": 460 },
+  "iPhone15,4": { "name": "iPhone 15", "ppi": 460 },
+
+  "iPhone15,3": { "name": "iPhone 14 Pro Max", "ppi": 460 },
+  "iPhone15,2": { "name": "iPhone 14 Pro", "ppi": 460 },
+  "iPhone14,8": { "name": "iPhone 14 Plus", "ppi": 458 },
+  "iPhone14,7": { "name": "iPhone 14", "ppi": 460 },
+
+  "iPhone14,3": { "name": "iPhone 13 Pro Max", "ppi": 458 },
+  "iPhone14,2": { "name": "iPhone 13 Pro", "ppi": 460 },
+  "iPhone14,5": { "name": "iPhone 13", "ppi": 460 },
+  "iPhone14,4": { "name": "iPhone 13 Mini", "ppi": 476 }
+}
