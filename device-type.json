@@ -1,6 +1,4 @@
-{
-  "comment": "Last Updated: Nov 2025. PPI is physical pixels per inch.",
-  
+{  
   "iPhone17,2": { "name": "iPhone 16 Pro Max", "ppi": 460 },
   "iPhone17,1": { "name": "iPhone 16 Pro", "ppi": 460 },
   "iPhone17,4": { "name": "iPhone 16 Plus", "ppi": 460 },
